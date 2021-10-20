@@ -25,7 +25,7 @@ sidebar:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: http://www.africau.edu/images/default/sample.pdf
+  # pdf: http://www.africau.edu/images/default/sample.pdf
 
   languages:
     - idiom: Hebrew
@@ -49,6 +49,7 @@ career-profile:
   summary: |
     I am a computational neuroscience researcher with a passion for data science and
     predictive modelling.
+
 education:
   - degree: PhD in Neuroscience
     university: Tel-Aviv University
@@ -72,34 +73,36 @@ education:
       Graduated with honors (matriculations average of over 95).
 
 experiences:
-  - role: Python for Neuroscience Graduate Teaching Assistant
-    time: 2020 - Present
-    company: Sagol School for Neuroscience, Tel-Aviv University
-    details: |
-      Introduction to the Python programming language for
-      neuroscience students.
-  - role: MATLAB for Neuroscience Undergrad Teaching Assistant
-    time: 2019 - present
-    company: Sagol School for Neuroscience, Tel-Aviv University
-    details: |
-      Introduction to the MATLAB programming language for
-      neuroscience students.
-  - role: Laboratory of Physiology and Neurobiology Teaching Assistant
-    time: 2020 - 2021
-    company: Sagol School for Neuroscience, Tel-Aviv University
-    details: |
-      Lead the data analysis aspect of the course, introduced dealing 
-      with data originated from various sources to neuroscience students.
-  - role: Research Assistant
-    time: 2018 - 2019
-    company: "The lab of Prof. Yaniv Assaf, Tel-Aviv University"
-    details: |
-      Explored the fMRI signal derived from specific cortical layers.
-  - role: Combatant sniper and commander
-    time: 2011-2015
-    company: Israeli Defense Force
-    details: |
-      Combatant soldier and commander (Lieutenant).
+  title: Job Experience
+  items:
+    - role: Python for Neuroscience Graduate Teaching Assistant
+      time: 2020 - Present
+      company: Sagol School for Neuroscience, Tel-Aviv University
+      details: |
+        Introduction to the Python programming language for
+        neuroscience students.
+    - role: MATLAB for Neuroscience Undergrad Teaching Assistant
+      time: 2019 - present
+      company: Sagol School for Neuroscience, Tel-Aviv University
+      details: |
+        Introduction to the MATLAB programming language for
+        neuroscience students.
+    - role: Laboratory of Physiology and Neurobiology Teaching Assistant
+      time: 2020 - 2021
+      company: Sagol School for Neuroscience, Tel-Aviv University
+      details: |
+        Lead the data analysis aspect of the course, introduced dealing 
+        with data originated from various sources to neuroscience students.
+    - role: Research Assistant
+      time: 2018 - 2019
+      company: "The lab of Prof. Yaniv Assaf, Tel-Aviv University"
+      details: |
+        Explored the fMRI signal derived from specific cortical layers.
+    - role: Combatant sniper and commander
+      time: 2011-2015
+      company: Israeli Defense Force
+      details: |
+        Combatant soldier and commander (Lieutenant).
 projects:
   title: Projects
   intro: >
